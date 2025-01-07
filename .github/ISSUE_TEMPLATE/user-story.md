@@ -8,9 +8,12 @@ assignees: ''
 
 ---
 
-_As a user I can ..._  
-****  
-_so that I can ..._  
+_As a user I can ..._
+
+****
+
+_so that I can ..._
+
 **.**  
 ---
 **TASK:**
