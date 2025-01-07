@@ -9,9 +9,8 @@ assignees: ''
 ---
 
 *As a user I can ...*
-
-**...**
-
+****
 *so that I can ...*
-
-**... .*
+**.*
+---
+**TASK:**
